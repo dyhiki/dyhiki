@@ -1,4 +1,5 @@
 ## Hi there 👋
+I didn't move any of my stuff here so I guess I'm starting from zero again I guess
 
 <!--
 **dyhiki/dyhiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
